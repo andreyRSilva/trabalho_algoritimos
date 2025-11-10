@@ -1,2 +1,3 @@
 # trabalho_algoritimos
-este trabalho e referente ao trabalho de Construção de algoritimos.
+este projeto é referente ao trabalho de Construção de algoritimos (UNASP-Hortolândia) 
+Professor: Léo
